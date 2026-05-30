@@ -2,7 +2,8 @@
 
 Windows共享文件夹管理软件，拖入一键共享＆双击一键删除。基于 .NET Framework 4.7.2（Windows10/11自带）
 
-<img width="1109" height="742" alt="image" src="https://github.com/user-attachments/assets/9515ae3a-c1cf-4615-a54a-15d470642daa" />
+<img width="1108" height="755" alt="image" src="https://github.com/user-attachments/assets/f5a9e94c-1542-4280-b3a8-ba360d2513de" />
+
 
 使用前确保高级共享设置开启相关选项，软件不做检查。
 
